@@ -11,12 +11,12 @@
 #define Width 20 
 
 //Variables
-int i,j,k; //<--iterables
-int GameOver = 0, score=0;
-int head_pos_x, head_pos_y, fruit_x, fruit_y;
-int totalTails=0; //<-Number of new tails;                 
-int tailX[100], tailY[100];
-int direction; 
+unsigned short int i,j,k; //<--iterables
+unsigned short int GameOver = 0, score=0;
+short int head_pos_x, head_pos_y, fruit_x, fruit_y;
+unsigned short int totalTails=0; //<-Number of new tails;                 
+short int tailX[100], tailY[100];
+short int direction; 
 
 //Game source code
 #include "incl/Setup.h"
