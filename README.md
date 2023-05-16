@@ -1,2 +1,2 @@
 # c-game-project
-Bootcamp C project
+Coding bootcamp C project
