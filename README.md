@@ -1,2 +1,2 @@
-# c-game-project
-Coding bootcamp C project
+
+Coding bootcamp C project / classic snake game
